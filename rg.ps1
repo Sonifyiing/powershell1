@@ -1,0 +1,1 @@
+new-azresourcegroup -name "rg12" -location "eastus"
